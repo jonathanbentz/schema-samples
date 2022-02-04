@@ -10,7 +10,6 @@ FAQ Schema Examples
 <ul>
   <li><a href="https://www.reliaquest.com/resource/video/what-is-mdr/">What is MDR?</a></li>
 </ul>
-
 Local Schema Examples
 <h2>United Way of the Upper Ohio Valley<h2>
  <ul>
