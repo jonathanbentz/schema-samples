@@ -1,5 +1,5 @@
 # Schema Samples
-A list of schema examples to resource when needed including local, person, FAQ, article, and more. 
+A list of schema examples to resource when needed. All of these have been hand coded and published by myself, some of my teammates, or templated for developers in-house to deploy.
 
 <h2>FAQ Schema Examples</h2>
 From FHE Health.com
