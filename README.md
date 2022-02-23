@@ -23,7 +23,6 @@ From Starks Age Management
 From FHE Health.com
 <ul>
   <li><a href="https://fherehab.com/add-adhd/treatment/">Treatment for ADD & ADHD</a></li>
-  <li><a href="https://fherehab.com/anxiety/treatment/">Treatment for ADD & ADHD</a></li>
   <li><a href="https://fherehab.com/anxiety/treatment/">Treatment for Anxiety Disorders</a></li>
   <li><a href="https://fherehab.com/bipolar/treatment">Treatment for Bipolar Disorder</a></li>
 </ul>
