@@ -19,3 +19,8 @@ United Way of the Upper Ohio Valley
    <ul>
   <li><a href="https://starksglobal.com/it/trapianto-capelli-milano/">Hair Restoration Solutions</a></li>
 </ul> 
+<h2>Medical Web Page Examples</h2>
+  <li><a href="https://fherehab.com/add-adhd/treatment/">Treatment for ADD & ADHD</a></li>
+  <li><a href="https://fherehab.com/anxiety/treatment/">Treatment for ADD & ADHD</a></li>
+  <li><a href="https://fherehab.com/anxiety/treatment/">Treatment for Anxiety Disorders</a></li>
+  <li><a href="https://fherehab.com/bipolar/treatment">Treatment for Bipolar Disorder</a></li>
